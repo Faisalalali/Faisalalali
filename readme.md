@@ -2,7 +2,8 @@
 <h3 align="center">A developer from Saudi Araiba</h3>
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=faisalalali&label=Curious%20cats&color=0e75b6&style=flat-square" alt="faisalalali" /> </p>
+<img src="https://komarev.com/ghpvc/?username=faisalalali&label=Curious%20cats&color=0e75b6" alt="faisalalali" />
+<a href="https://wakatime.com/@e0b8c352-9351-4cf9-9a4f-5db1d5d9ba4c"><img src="https://wakatime.com/badge/user/e0b8c352-9351-4cf9-9a4f-5db1d5d9ba4c.svg" alt="Total time coded since May 10 2023" /></a> </p>
 
 - 🔭 I’m currently working on [my senior project](https://github.com/Faisalalali/dalil-aljabal)
 
@@ -12,7 +13,8 @@
 
 - ⚡ Fun fact **I will make anything for you if you asked nicely enough!**
 
-<h1 align="left">Languages and Tools</h1>
+<details>
+<summary><h1 align="left">Languages and Tools</h1></summary>
 <p align="left">
 <p align="left">Mobile</p>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer">
@@ -107,6 +109,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a></p>
+</details>
 
 <h1>My latest projects</h1>
 <!-- https://github.com/Faisalalali/khobar-shopper -->
