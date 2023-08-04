@@ -139,3 +139,11 @@
 <!--  whatsapp.svg  -->
 <a href="https://wa.me/966555003734" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="faisalalali" height="30" width="40" /></a>
 </p>
+
+#### My daily coding time :)
+
+<div align="center">
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@e0b8c352-9351-4cf9-9a4f-5db1d5d9ba4c/1b4e28be-6fc9-4ad5-a42e-dcf3df41e9af.png" />
+  </a>
+</div>
