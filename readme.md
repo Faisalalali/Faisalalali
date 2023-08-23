@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter, Spring Boot, and DevOps**.
 
-- 👨‍💻 All of my projects are available at [www.faisalalali.sa](www.faisalalali.sa)
+- 👨‍💻 Some of my projects are available at [blog.faisalalali.sa/projects](https://blog.faisalalali.sa/projects)
 
 - ⚡ Fun fact **I will make anything for you if you asked nicely enough!**
 
