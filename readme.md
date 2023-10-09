@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently looking for work :D
 
-- 🌱 I’m currently learning **Flutter, Spring Boot, and DevOps**.
+- 🌱 I’m currently learning **NextJS, DevOps, and Networking**.
 
 - 👨‍💻 Some of my projects are available at [blog.faisalalali.sa/projects](https://blog.faisalalali.sa/projects)
 
