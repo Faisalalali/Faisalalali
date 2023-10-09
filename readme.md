@@ -111,25 +111,26 @@
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a></p>
 </details>
 
-<h1>My latest projects</h1>
-<!-- https://github.com/Faisalalali/khobar-shopper -->
-<a href="https://github.com/Faisalalali/khobar-shopper">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faisalalali&repo=khobar-shopper&theme=dark" /></a>
-<!-- https://github.com/Faisalalali/dalil-aljabal -->
-<!-- <a href="https://github.com/Faisalalali/dalil-aljabal">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faisalalali&repo=dalil_aljabal&theme=dark" /></a> -->
-<!-- https://github.com/Faisalalali/7ROF -->
-<a href="https://github.com/Faisalalali/7ROF">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faisalalali&repo=7ROF&theme=dark" /></a>
-<!-- https://github.com/Faisalalali/KFUPM-Graduation-Book-Image-Fixer -->
-<a href="https://github.com/Faisalalali/KFUPM-Graduation-Book-Image-Fixer">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faisalalali&repo=KFUPM-Graduation-Book-Image-Fixer&theme=dark" /></a>
-<!-- https://github.com/Faisalalali/kfupm-innovation-hackathon-222 -->
-<a href="https://github.com/Faisalalali/kfupm-innovation-hackathon-222">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faisalalali&repo=kfupm-innovation-hackathon-222&theme=dark" /></a>
-<!-- https://github.com/Faisalalali/Flask-CRUD-App-with-MVC-Arch -->
-<a href="https://github.com/Faisalalali/Flask-CRUD-App-with-MVC-Arch">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faisalalali&repo=Flask-CRUD-App-with-MVC-Arch&theme=dark" /></a>
+
+<!--<h1>My latest projects</h1>-->
+<!--<!-- https://github.com/Faisalalali/khobar-shopper -->-->
+<!--<a href="https://github.com/Faisalalali/khobar-shopper">-->
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faisalalali&repo=khobar-shopper&theme=dark" /></a>-->
+<!--<!-- https://github.com/Faisalalali/dalil-aljabal -->-->
+<!--<!-- <a href="https://github.com/Faisalalali/dalil-aljabal">-->
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faisalalali&repo=dalil_aljabal&theme=dark" /></a> -->-->
+<!--<!-- https://github.com/Faisalalali/7ROF -->-->
+<!--<a href="https://github.com/Faisalalali/7ROF">-->
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faisalalali&repo=7ROF&theme=dark" /></a>-->
+<!--<!-- https://github.com/Faisalalali/KFUPM-Graduation-Book-Image-Fixer -->-->
+<!--<a href="https://github.com/Faisalalali/KFUPM-Graduation-Book-Image-Fixer">-->
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faisalalali&repo=KFUPM-Graduation-Book-Image-Fixer&theme=dark" /></a>-->
+<!--<!-- https://github.com/Faisalalali/kfupm-innovation-hackathon-222 -->-->
+<!--<a href="https://github.com/Faisalalali/kfupm-innovation-hackathon-222">-->
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faisalalali&repo=kfupm-innovation-hackathon-222&theme=dark" /></a>-->
+<!--<!-- https://github.com/Faisalalali/Flask-CRUD-App-with-MVC-Arch -->-->
+<!--<a href="https://github.com/Faisalalali/Flask-CRUD-App-with-MVC-Arch">-->
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faisalalali&repo=Flask-CRUD-App-with-MVC-Arch&theme=dark" /></a>-->
 
 
 <h3 align="left">Connect with me:</h3>
