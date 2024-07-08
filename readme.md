@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=faisalalali&label=Curious%20cats&color=0e75b6" alt="faisalalali" />
 <a href="https://wakatime.com/@e0b8c352-9351-4cf9-9a4f-5db1d5d9ba4c"><img src="https://wakatime.com/badge/user/e0b8c352-9351-4cf9-9a4f-5db1d5d9ba4c.svg" alt="Total time coded since May 10 2023" /></a> </p>
 
-- 🔭 I’m currently looking for work :D
+<!-- - 🔭 I’m currently looking for work :D -->
 
 - 🌱 I’m currently learning **NextJS, DevOps, and Networking**.
 
